@@ -1,0 +1,30 @@
+/* geral */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #323232;
+    border: none;
+
+}
+input, label{
+    display: block;
+    width: 100%;
+
+}
+input:focus, label:focus{
+    outline: none;
+
+}
+a{  
+    color:#5f7c8a; 
+}
+body{
+    padding-top: 5vh;
+    background-image: url('../img/01.jpg');
+    background-size: cover;
+   
+
+
+}
